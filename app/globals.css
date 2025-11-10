@@ -1,12 +1,25 @@
 /* Global CSS for Portfolio */
-
 body {
   margin: 0;
   padding: 0;
-  background-color: #0f1a2b;
-  color: #d1cfc9;
+  background-color: #d1cfc9; /* overall white background */
+  color: #1c2e4a; /* dark text for readability */
   font-family: "Poppins", sans-serif;
 }
+
+.layout-body {
+  background-color: #d1cfc9;
+  margin: 0;
+  padding: 0;
+}
+
+.layout-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 16px;
+  background-color: #d1cfc9;
+}
+
 
 header {
   background-color: #1c2e4a;

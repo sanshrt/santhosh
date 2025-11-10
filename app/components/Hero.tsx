@@ -11,7 +11,7 @@ export default function Hero() {
         transition={{ duration: 1 }}
         className="hero-text"
       >
-        <h1 className="hero-title">Hi, I'm Santhosh Babu 👋</h1>
+        <h1 className="hero-title">Hi, I'm Santhosh Babu </h1>
         <p className="hero-subtitle">
           A passionate <strong>Full Stack Developer</strong> crafting seamless, modern, and engaging web experiences.
         </p>
