@@ -16,7 +16,7 @@ export default function About() {
 
         <p>
           I’m currently pursuing my <strong>Bachelor of Engineering in Mechanical Engineering</strong> 
-          at <strong>Alagappa Chettiar Government College of Engineering and Technology (ACGCET)</strong>, 
+           at <strong>Alagappa Chettiar Government College of Engineering and Technology (ACGCET)</strong>, 
           Karaikudi (2023–2027).
         </p>
 
